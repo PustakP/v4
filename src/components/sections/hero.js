@@ -63,9 +63,10 @@ const Hero = () => {
   const three = <h3 className="big-heading">A hitchhiker on the internet.</h3>;
   const four = (
     <p>
-      I am a high school student at {' '}
+      I like messing around on the internet! Data archiving and security 
+      are stuff I am interested in. I am a high school student at {' '}
       <a href="http://www.ahlconpublicschool.com/" target="_blank" rel="noreferrer">
-        Upstatement, and like messing around on the internet! Data archiving and security are stuff I am interested in.
+        Ahlcon.
       </a>
       .
     </p>
