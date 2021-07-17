@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">MESSAGE ME</h2>
 
       <p>
-        I AM ALWAYS STARING FOR ATTENTION PLEASE CONTACT ME
+        I AM ALWAYS STARVING FOR ATTENTION PLEASE CONTACT ME
         THANK YOU AND HAVE A GOOD DAY
       </p>
 
